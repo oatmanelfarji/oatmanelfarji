@@ -49,4 +49,4 @@ I am open for collaborations, so if you find my work interesting feel free to se
 
 ## Github stats
 
-![ElfarjidOtheman's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfarjidotheman&show_icons=true&theme=dark)
+![OatmanElfarji's GitHub stats](https://github-readme-stats.vercel.app/api?username=oatmanelfarji&show_icons=true&theme=dark)
