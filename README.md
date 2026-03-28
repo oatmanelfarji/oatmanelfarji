@@ -49,5 +49,5 @@ I am open for collaborations, so if you find my work interesting feel free to se
 
 ## Github stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oatmanelfarji&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oatmanelfarji&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=601&card_height=230)](https://git.io/streak-stats)
 
